@@ -1,0 +1,15 @@
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\Jacob\C#\DZ02\03\bin\Debug\net6.0\03.exe
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\Jacob\C#\DZ02\03\bin\Debug\net6.0\03.deps.json
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\Jacob\C#\DZ02\03\bin\Debug\net6.0\03.runtimeconfig.json
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\Jacob\C#\DZ02\03\bin\Debug\net6.0\03.dll
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\Jacob\C#\DZ02\03\bin\Debug\net6.0\03.pdb
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\Jacob\C#\DZ02\03\obj\Debug\net6.0\03.csproj.AssemblyReference.cache
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\Jacob\C#\DZ02\03\obj\Debug\net6.0\03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\Jacob\C#\DZ02\03\obj\Debug\net6.0\03.AssemblyInfoInputs.cache
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\Jacob\C#\DZ02\03\obj\Debug\net6.0\03.AssemblyInfo.cs
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\Jacob\C#\DZ02\03\obj\Debug\net6.0\03.csproj.CoreCompileInputs.cache
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\Jacob\C#\DZ02\03\obj\Debug\net6.0\03.dll
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\Jacob\C#\DZ02\03\obj\Debug\net6.0\refint\03.dll
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\Jacob\C#\DZ02\03\obj\Debug\net6.0\03.pdb
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\Jacob\C#\DZ02\03\obj\Debug\net6.0\03.genruntimeconfig.cache
+C:\Users\ponch\YandexDisk-vgkulakov\Гостиница\Аннины материалы\Анина учёба\Jacob\C#\DZ02\03\obj\Debug\net6.0\ref\03.dll
